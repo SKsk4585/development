@@ -12,6 +12,7 @@ class MeetingsModel{
         this.DevelopmentGrouplId = meet.DevelopmentGrouplId
         this.DateTimeOfStert = meet.DateTimeOfStert
         this.DateTimeOfEnd = meet.DateTimeOfEnd
+        this.Description = meet.Description
         this.MeetingRoom = meet.MeetingRoom
     }
 }
